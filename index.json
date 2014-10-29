@@ -1,5 +1,5 @@
 {
-  "name": "traits schema",
+  "name": "cite-traits",
   "version": "0.1.0",
   "description": "a schema of traits used in referencing",
   "properties": {
